@@ -1,4 +1,4 @@
-chmod +x file.sh
+chmod +x file.sh (---x--x--x)
 
 chmod private/team/public
 
