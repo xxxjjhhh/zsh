@@ -1,1 +1,3 @@
-find /tmp -type f -newer 2022.06 ! -newer 2022.09
+find / -newer 2022.06 -a ! -newer 2022.09
+
+-exec cp {} /hi
